@@ -1,25 +1,33 @@
-# zepto-sql-analysis
+# 🛒 Zepto Product & Inventory Analysis using SQL
 
-Zepto Product & Inventory Analysis using SQL
-Project Overview
+## 📌 Project Overview
 
-This project analyzes Zepto's product inventory dataset using SQL. The objective is to perform data cleaning, exploration, and business analysis to derive actionable insights regarding pricing, discounts, inventory availability, and category performance.
+This project focuses on analyzing Zepto's product inventory dataset using MySQL. The goal is to perform data cleaning, exploratory data analysis, and business intelligence reporting to uncover insights related to product pricing, discounts, stock availability, and category performance.
 
-Dataset
-Total Products: 3,732+
-Categories: Multiple product categories
-Features:
-Product Name
-Category
-MRP
-Discount Percentage
-Selling Price
-Available Quantity
-Weight
-Stock Status
+Through SQL queries, various business questions were answered to simulate real-world inventory and retail analytics scenarios.
 
-Technologies Used
-MySQL
-SQL
-Data Cleaning
-Data Analysis
+---
+
+## 🎯 Objectives
+
+- Clean and prepare raw product data for analysis
+- Analyze pricing and discount patterns
+- Identify inventory trends and stock issues
+- Evaluate category-wise performance
+- Estimate potential revenue opportunities
+- Generate actionable business insights using SQL
+
+---
+
+## 🛠️ Tools & Technologies
+
+- MySQL
+- SQL
+- Data Cleaning
+- Data Analysis
+- Aggregate Functions
+- CASE Statements
+- Business Analytics
+
+---
+
